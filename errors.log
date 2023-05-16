@@ -1,0 +1,16 @@
+2023-05-17 04:57:15,806 - ERROR - Empty_fields Details: .. Message sent to user: Username and Password are required..
+NoneType: None
+2023-05-17 04:57:20,982 - ERROR - Invalid_characters Details: Invalid Character found: "--" in "' OR 1==1 --". Message sent to user: Please avoid using the following characters in your input: ";" "--" "null" "drop" "=" "*" "delete" "where" "join" "from" "update" "insert" "select". These characters are prohibited for security reasons..
+NoneType: None
+2023-05-17 04:57:29,296 - ERROR - User_not_found Details: Username: "admin" Password attempted: "Admin". Message sent to user: Username not found..
+NoneType: None
+2023-05-17 04:57:37,079 - ERROR - User_not_found Details: Username: "admin" Password attempted: "adminpassword". Message sent to user: Username not found..
+NoneType: None
+2023-05-17 06:11:54,593 - ERROR - Invalid_characters Details: Invalid Character found: "--" in "' OR 1=1 --". Message sent to user: Please avoid using the following characters in your input: ";" "--" "null" "drop" "=" "*" "delete" "where" "join" "from" "update" "insert" "select". These characters are prohibited for security reasons..
+NoneType: None
+2023-05-17 06:11:57,089 - ERROR - Invalid_characters Details: Invalid Character found: "--" in "' OR 1=1 --". Message sent to user: Please avoid using the following characters in your input: ";" "--" "null" "drop" "=" "*" "delete" "where" "join" "from" "update" "insert" "select". These characters are prohibited for security reasons..
+NoneType: None
+2023-05-17 06:11:57,726 - ERROR - Invalid_characters Details: Invalid Character found: "--" in "' OR 1=1 --". Message sent to user: Please avoid using the following characters in your input: ";" "--" "null" "drop" "=" "*" "delete" "where" "join" "from" "update" "insert" "select". These characters are prohibited for security reasons..
+NoneType: None
+2023-05-17 06:11:58,381 - ERROR - Invalid_characters Details: Invalid Character found: "--" in "' OR 1=1 --". Message sent to user: Please avoid using the following characters in your input: ";" "--" "null" "drop" "=" "*" "delete" "where" "join" "from" "update" "insert" "select". These characters are prohibited for security reasons..
+NoneType: None

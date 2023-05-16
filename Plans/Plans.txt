@@ -1,0 +1,58 @@
+Software Overview
+
+This software is a small Python project created by Denver James Duran. It uses the following libraries:
+
+Database: SQLite3
+GUI: customtkinter
+Error Checking: unittest, importlib, Logging
+Encryption: bcrypt
+Others: os, sys
+
+The software has the following features:
+
+Data cleaning: User inputs are sanitized to prevent common SQL injection attacks. Inputs are also parameterized before execution, which improves security.
+Factory Design: Codes are separated as much as possible and objects are given unique names.
+Error handling: Customized Exceptions with their own GUI dialogue and descriptive message allow end users to understand what is happening.
+Logging: All customized errors are saved in an errors.log file within the project directory for backtracking of events.
+Encryption: The bcrypt module is used to encrypt and decrypt passwords saved in the SQL database.
+
+Possible Future Improvements
+The following are possible future improvements for the software:
+
+Integrate with a separate software: It would be more useful if this software could be linked to a bigger software, such as Sales Tracking.
+Implement the Forgot Password link: A Forgot Password link could be implemented, which would allow users to reset their passwords by entering their email address.
+
+Conclusion
+
+This software is a small but powerful Python project that can be used 
+for a variety of purposes. It is well-designed and secure, and it has 
+the potential to be even more useful with future improvements.
+
+Additional Information
+
+The following additional information is provided for developers who are 
+interested in learning more about the software:
+
+	The software is open source and can be found on GitHub.
+	The software is licensed under the MIT License.
+	The software is currently in development and is not yet complete.
+
+#########################################################################
+Available users in the database:
+
+_________________________________________________________________________
+username   | password  | email                         | fullname
+_________________________________________________________________________
+JSmith1    | password1 | johnsmith1@example.com        | John Smith
+SSmith1    | password1 | sarahsmith1@example.com       | Sarah Smith
+MBrown1    | password1 | michaelbrown1@example.com     | Michael Brown
+ODavis1    | password1 | oliviadavis1@example.com      | Olivia Davis
+AAnderson1 | password2 | danielanderson1@example.com   | Daniel Anderson
+OMartinez1 | password2 | oliviamartinez1@example.com   | Olivia Martinez
+MTaylor1   | password2 | matthewtaylor1@example.com    | Matthew Taylor
+SThomas1   | password2 | sophiathomas1@example.com     | Sophia Thomas
+NAdams1    | password3 | NULL                          | NULL
+RClark1    | password3 | NULL                          | NULL
+_________________________________________________________________________
+
+#########################################################################
