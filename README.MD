@@ -33,7 +33,7 @@ This software is a small but powerful Python project that can be used for a vari
 
 The following additional information is provided for developers who are interested in learning more about the software:
 
-- The software is open source and can be found on [GitHub](https://github.com).
+- The software is open source and can be found on [GitHub](https://github.com/DDuran19/login_system).
 - The software is licensed under the MIT License.
 - The software is currently in development and is not yet complete.
 
